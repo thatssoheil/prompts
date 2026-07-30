@@ -2,6 +2,8 @@
 
 Copy-paste prompts for AI chat interfaces (ChatGPT, Claude, Gemini, etc.). No installation, no terminal, no commands. Just copy the content and paste it into your AI chat.
 
+**Repo:** github.com/thatssoheil/prompts
+
 ## Available Prompts
 
 ### Fitness Coach

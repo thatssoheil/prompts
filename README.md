@@ -1,3 +1,5 @@
+<p align="center"><b>🌍 Language / زبان:</b> <a href="README.md">English</a> | <a href="README.fa.md">فارسی</a></p>
+
 # AI Prompts - Copy-Paste Prompt Collection
 
 A collection of copy-paste prompts for AI chat interfaces (ChatGPT, Claude, Gemini, and more). **No installation, no terminal, no commands.** Just copy the text, paste it into your AI chat, and go.
@@ -38,13 +40,6 @@ Both give the same professional results. The difference is **how** you use them:
 
 Want the developer version? These prompts are also available as **installable agent skills** in one repo:
 👉 [github.com/thatssoheil/skills](https://github.com/thatssoheil/skills)
-
----
-
-## 🌍 Languages
-
-- [English](README.md)
-- [فارسی (Farsi)](README.fa.md)
 
 ---
 

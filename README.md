@@ -1,41 +1,27 @@
-# 📝 AI Prompts — Copy-Paste Prompts
+# AI Prompts - Copy-Paste Prompt Collection
 
-Copy-paste prompts for AI chat interfaces (ChatGPT, Claude, Gemini, and more). **No installation, no terminal, no commands.** Just copy the text, paste it into your AI chat, and go.
+A collection of copy-paste prompts for AI chat interfaces (ChatGPT, Claude, Gemini, and more). **No installation, no terminal, no commands.** Just copy the text, paste it into your AI chat, and go.
 
-> **Who is this for?** Anyone! If you don't want to install anything or use a terminal, these prompts give you the same pro-level results with a simple copy and paste.
+> **Who is this for?** Anyone! If you don't want to install anything or use a terminal, these prompts give you pro-level results with a simple copy and paste.
 
 **Repo:** github.com/thatssoheil/prompts
 
 ---
 
-## 📦 Available Prompts
+## 📦 Prompts in this collection
 
-### 🏋️ Fitness Coach
-A complete 6-step fitness coaching workflow: language selection, intake questionnaire, body analysis from photos, custom workout program generation, weekly check-ins, and program recycling.
+Browse the files in this repo. Each `.md` file is a ready-to-use prompt. New prompts are added over time, so check back - this is an expanding collection.
 
-- **Works with any equipment** — bodyweight, home gym, or full gym.
-- **Adapts to your goal** — cut, bulk, recomp, strength, or general health.
-- **Includes:** progressive overload, phasing, deload weeks, and form cues.
-- **Weekly check-ins** with automatic adjustments.
+---
 
-**How to use:**
-1. Open [fitness-coach-prompt.md](./fitness-coach-prompt.md)
-2. Copy everything below the `---` line
-3. Paste into ChatGPT, Claude, Gemini, or any AI chat that supports image uploads
-4. Follow along — the AI walks you through each step
+## 🚀 How to use
 
-### 🪙 Crypto Investment Analysis
-A professional 4-layer crypto analysis framework: macro sentiment, fundamentals, on-chain data, and technical analysis. Includes three future scenarios and a DCA/exit plan.
+1. Open any `.md` prompt file in this repo.
+2. Copy everything below the `---` line.
+3. Paste into ChatGPT, Claude, Gemini, or any AI chat.
+4. Follow the simple instructions at the end (for example, tell it what you want analyzed or coached).
 
-- **Works for any cryptocurrency.**
-- **Covers both** short-term trading and long-term holding.
-- **Includes critical pitfalls** (coin/BTC ratio, token unlocks, macro context).
-
-**How to use:**
-1. Open [crypto-analysis-prompt.md](./crypto-analysis-prompt.md)
-2. Copy everything below the `---` line
-3. Paste into any AI chat
-4. Tell it which coin you want analyzed
+That's it. No setup, no commands.
 
 ---
 
@@ -46,9 +32,9 @@ Both give the same professional results. The difference is **how** you use them:
 | | **Prompts** (this repo) | **Skills** |
 |---|---|---|
 | **For who** | Regular users, beginners | Developers |
-| **Installation** | None — copy & paste | One command with a terminal |
-| **Works with** | ChatGPT, Claude, Gemini (web chats) | AI coding agents (Hermes, Codex, Cursor, …) |
-| **Effort** | Paste text into chat | `npx skills add …` |
+| **Installation** | None - copy & paste | One command with a terminal |
+| **Works with** | ChatGPT, Claude, Gemini (web chats) | AI coding agents (Hermes, Codex, Cursor, and more) |
+| **Effort** | Paste text into chat | `npx skills add ...` |
 
 Want the developer version? These prompts are also available as **installable agent skills** in one repo:
 👉 [github.com/thatssoheil/skills](https://github.com/thatssoheil/skills)
